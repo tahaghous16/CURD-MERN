@@ -57,5 +57,3 @@ CURD_MERN/
 - React  for the amazing framework
 
 ---
-
-⭐ **Star this repository if you found it helpful!** 
